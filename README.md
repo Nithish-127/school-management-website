@@ -3,3 +3,9 @@ This repository contains the project documentation and code screenshots for a si
 
 🔍 About the Project
 The website was designed to be simple, user-friendly, and responsive. It provides essential information about the school, including academics, gallery, resources, achievements, and registration details.
+
+## 🚀 Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 4
